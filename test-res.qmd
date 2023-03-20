@@ -1,0 +1,120 @@
+---
+title: "lit review - test"
+format: html
+toc: true
+toc-depth: 3
+code-fold: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Sample analysis
+
+
+#### Summarize main results of the bibliometric analysis
+```{r}
+library(bibliometrix)
+
+M <- convert2df(file = "data/p1.bib", dbsource = "isi", format = "bibtex")
+
+# main bibliometric measures
+results <- biblioAnalysis(M, sep = ";")
+
+#summarize main results of the bibliometric analysis
+options(width=100)
+S <- summary(object = results, k = 10, pause = FALSE)
+S
+```
+
+Plot
+
+```{r}
+plot_res<-plot(x = results, k = 10, pause = FALSE)
+
+plot_res
+```
+
+most frequent cited manuscripts
+
+```{r}
+#most frequent cited manuscripts
+CR <- citations(M, field = "article", sep = ";")
+cbind(CR$Cited[1:10])
+```
+
+most frequent cited first authors
+
+```{r}
+#most frequent cited first authors
+CR <- citations(M, field = "author", sep = ";")
+cbind(CR$Cited[2:10])
+```
+
+most frequent local cited authors
+
+```{r}
+#most frequent local cited authors
+CR <- localCitations(M, sep = ";")
+CR$Authors[1:10,]
+```
+
+most frequent local cited papers
+
+```{r}
+CR$Papers[1:10,]
+```
+
+Authors’ Dominance ranking
+
+```{r}
+#Authors’ Dominance ranking
+DF <- dominance(results, k = 10)
+DF
+```
+
+H index for *BENETOLI A*
+```{r}
+#H index
+indices <- Hindex(M, field = "author", elements="BENETOLI A", sep = ";", years = 10)
+```
+
+Bornmann's impact indices
+
+```{r}
+# Bornmann's impact indices:
+indices$H
+```
+
+Citation list
+
+```{r}
+indices$CitationList
+```
+
+
+Top-Authors’ Productivity over the Time
+
+```{r}
+#Top-Authors’ Productivity over the Time
+authors=gsub(","," ",names(results$Authors)[1:10])
+
+indices <- Hindex(M, field = "author", elements=authors, sep = ";", years = 50)
+
+indices$H
+```
+
+
+Top local authors and Author's productivity per year
+
+```{r}
+topAU <- authorProdOverTime(M, k = 10, graph = TRUE)
+
+## Table: Author's productivity per year
+head(topAU$dfAU)
+
+
+
+
+```
