@@ -31,3 +31,25 @@ CR$Papers[1:10,]
 #Authors’ Dominance ranking
 DF <- dominance(results, k = 10)
 DF
+
+#H index
+indices <- Hindex(M, field = "author", elements="BENETOLI A", sep = ";", years = 10)
+
+# Bornmann's impact indices:
+indices$H
+
+
+indices$CitationList
+
+#Top-Authors’ Productivity over the Time
+authors=gsub(","," ",names(results$Authors)[1:10])
+
+indices <- Hindex(M, field = "author", elements=authors, sep = ";", years = 50)
+
+indices$H
+
+
+topAU <- authorProdOverTime(M, k = 10, graph = TRUE)
+
+## Table: Author's productivity per year
+head(topAU$dfAU)
