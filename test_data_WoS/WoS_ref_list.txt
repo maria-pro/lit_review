@@ -1,0 +1,2192 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Delcoure, Natalya
+   Carmona, Jesus S.
+TI Enrollment management analytics: a practical framework
+SO JOURNAL OF APPLIED RESEARCH IN HIGHER EDUCATION
+VL 11
+IS 4
+BP 910
+EP 925
+DI 10.1108/JARHE-10-2018-0209
+DT Article
+PD OCT 14 2019
+PY 2019
+AB Purpose The purpose of this paper is to examine the role of data
+   analytics in addressing contemporary challenges and opportunities facing
+   institutions of higher education, with a special emphasis on enrollment
+   management for the example of a college of business administration in a
+   Hispanic-serving four-year institution of higher education.
+   Design/methodology/approach After reviewing previous research on this
+   subject, the authors propose adding a new stratum to higher education
+   analytics, enrollment management analytics, which uniquely identifies
+   the actions associated with attracting and recruiting students, accounts
+   for institutional differences and leads to students' successful
+   matriculation at institutions. Findings The authors demonstrate on the
+   example of a professional college in a four-year institution of higher
+   education how the utilization of modern analytical tools and techniques
+   develop actionable decisions in the students' recruitment process, which
+   leads to their matriculation. Originality/value A definition and a new
+   stratum in higher education analytics are proposed for enrollment
+   management analytics.
+RI Delcoure, Natalya/AAB-4166-2019; Carmona, Jesus/
+OI Delcoure, Natalya/0000-0002-1957-4819; Carmona,
+   Jesus/0000-0001-6757-1367
+Z8 0
+ZA 0
+TC 3
+ZB 0
+ZR 1
+ZS 0
+Z9 3
+SN 2050-7003
+EI 1758-1184
+UT WOS:000488496000017
+ER
+
+PT J
+AU Prokofieva, Maria
+TI Integrating data analytics in teaching audit with machine learning and
+   artificial intelligence
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+DI 10.1007/s10639-022-11474-x
+EA DEC 2022
+DT Article; Early Access
+PY 2022
+AB External audit is undergoing rapid changes where more and more routine
+   tasks are automated with analytics and artificial intelligence (AI)
+   instruments. The paper addresses a research problem of mapping data
+   analytics to audit tasks and develops a framework aligning audit phases
+   and AI and using data analytics in teaching audit with AI. The paper
+   contributes to the literature on using data analytics with AI in
+   knowledge specific areas and particularly critical for emerging audit
+   analytics, which is data analytics in external financial audit
+   application. The paper employs the process model methodology (Wynn and
+   Clarkson, Research in Engineering Design 29:161-202, 2018) and the
+   hybrid approach of curriculum development (Dzuranin et al., Journal of
+   Accounting Education 43:24-39, 2018). The framework is extended further
+   by inclusion of knowledge areas and skills recommendations for each
+   identified stage. This inclusion is linked to the peak accounting body
+   guidelines to ensure compliance with course certification and future job
+   prospects. The developed framework is implemented using audit management
+   platform MindBridge AI. The developed teaching and learning materials
+   show implementation of the framework on the practical level. The
+   developed framework was evaluated in a focus group with accounting
+   academics and industry professionals. Its implementation was evaluated
+   in a series of workshops and a survey with participants.
+ZR 0
+TC 0
+ZA 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+SN 1360-2357
+EI 1573-7608
+UT WOS:000914464800001
+ER
+
+PT J
+AU Foung, Dennis
+   Chen, Julia
+TI Discovering disciplinary differences: blending data sources to explore
+   the student online behaviors in a University English course
+SO INFORMATION DISCOVERY AND DELIVERY
+VL 47
+IS 2
+SI SI
+BP 106
+EP 114
+DI 10.1108/IDD-10-2018-0053
+DT Article
+PD MAY 20 2019
+PY 2019
+AB Purpose This study aims to explore disciplinary differences in
+   completing blended learning tasks in an academic literacy course and the
+   feasibility of adopting a blended learning analytics approach to explore
+   disciplinary differences. Design/methodology/approach Following a
+   learning analytics approach, this study blends data from the learning
+   management system and timetabling arrangements. Findings Results suggest
+   that online behaviors of design students and accounting students are
+   different in terms of starting day and completion rate. Blending data
+   sources also provides a new perspective to our learning analytics study.
+   Originality/value This study is an important contribution to the field
+   because studies on learning analytics with multiple data sources are
+   rare, and most disciplinary studies rely on survey data; students'
+   actual behaviors are under-explored.
+RI Foung, Dennis/AAH-8673-2021
+OI Foung, Dennis/0000-0002-6769-0582
+TC 6
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+ZB 0
+Z9 6
+SN 2398-6247
+UT WOS:000476508200006
+ER
+
+PT J
+AU Lopez-Pernas, Sonsoles
+   Saqr, Mohammed
+TI Bringing Synchrony and Clarity to Complex Multi-Channel Data: A Learning
+   Analytics Study in Programming Education
+SO IEEE ACCESS
+VL 9
+BP 166531
+EP 166541
+DI 10.1109/ACCESS.2021.3134844
+DT Article
+PD 2021
+PY 2021
+AB Supporting teaching and learning programming with learning analytics is
+   an active area of inquiry. Most data used for learning analytics
+   research comes from learning management systems. However, such systems
+   were not developed to support learning programming. Therefore, educators
+   have to resort to other systems that support the programming process,
+   which can pose a challenge when it comes to understanding students'
+   learning since it takes place in different contexts. Methods that
+   support the combination of different data sources are needed. Such
+   methods would ideally account for the time-ordered sequence of students'
+   learning actions. In this article, we use a novel method (multi-channel
+   sequence mining with Hidden Markov Models, HMMs) that allows the
+   combination of multiple data sources, accounts for the temporal nature
+   of students' learning actions, and maps the transitions between
+   different learning tactics. Our study included 291 students enrolled in
+   a higher education programming course. Students' trace-log data were
+   collected from the learning management system and from a programming
+   automated assessment tool. Data were analyzed using multi-channel
+   sequence mining and HMM. The results reveal different patterns of
+   students' approaches to learning programming. High achievers start
+   earlier to work on the programming assignments, use more independent
+   strategies and consume learning resources more frequently, while the low
+   achievers procrastinate early in the course and rely on help forums. Our
+   findings demonstrate the potentials of multi-channel sequence mining and
+   how this method can be analyzed using HMM. Furthermore, the results
+   obtained can be of use for educators to understand students' strategies
+   when learning programming.
+RI López-Pernas, Sonsoles/M-7375-2019; Saqr, Mohammed/AAH-2520-2020
+OI López-Pernas, Sonsoles/0000-0002-9621-1392; Saqr,
+   Mohammed/0000-0001-5881-3109
+ZR 0
+ZA 0
+Z8 0
+ZB 0
+TC 5
+ZS 0
+Z9 5
+SN 2169-3536
+UT WOS:000733939500001
+ER
+
+PT J
+AU Rezaee, Zabihollah
+   Dorestani, Alireza
+   Aliabadi, Sara
+TI Application of Time Series Analyses in Big Data: Practical, Research,
+   and Education Implications
+SO JOURNAL OF EMERGING TECHNOLOGIES IN ACCOUNTING
+VL 15
+IS 1
+BP 183
+EP 197
+DI 10.2308/jeta-51967
+DT Article
+PD SPR 2018
+PY 2018
+AB The application of Big Data and time series models is currently at an
+   early stage. This paper examines the relevance and use of time series
+   analyses for Big Data and business analytics by discussing the emergence
+   of Big Data in business, presenting time series models, and providing an
+   example of how time series models can be efficiently and effectively
+   applied in accounting and auditing using Big Data. Using sophisticated
+   Big Data and time series models, millions of transactions can be
+   searched to spot patterns and detect abnormalities and irregularities.
+   The time series model and Big Data analysis presented in this paper
+   provide policy, practical, educational, and research implications.
+   Businesses and management can use our suggested time series model and
+   Big Data analysis in their predictive models of managerial strategies,
+   decisions, and actions. Business schools and accounting programs can
+   integrate the time series model, Big Data, and data analytics into
+   business and accounting education.
+OI Rezaee, Zabihollah/0000-0001-9889-9699
+Z8 0
+ZB 0
+ZR 0
+ZA 1
+TC 15
+ZS 0
+Z9 16
+SN 1554-1908
+EI 1558-7940
+UT WOS:000440921000013
+ER
+
+PT J
+AU Aboagye-Otchere, Francis
+   Agyenim-Boateng, Cletus
+   Enusah, Abdulai
+   Aryee, Theodora Ekua
+TI A Review of Big Data Research in Accounting
+SO INTELLIGENT SYSTEMS IN ACCOUNTING FINANCE & MANAGEMENT
+VL 28
+IS 4
+BP 268
+EP 283
+DI 10.1002/isaf.1504
+EA FEB 2022
+DT Review
+PD OCT 2021
+PY 2021
+AB The impending fourth industrial revolution has enhanced the role of big
+   data analytics in today's business practice. Consequently, many now
+   consider big data as the most strategic resource in business to the
+   extent that organizations that fail to utilize it may become
+   competitively disadvantaged. Following these developments, questions
+   have been raised about the future of the accounting discipline,
+   especially in terms of how it can continue to add value to
+   organizations. While some scholars have attempted to address this
+   question, it remains an abstract concept requiring further
+   investigation. Therefore, this study conducts a systematic literature
+   review to determine the status of accounting research on big data
+   analytics and provides avenues for further studies. By conducting
+   co-occurrence network analysis on 52 peer-reviewed articles published
+   from 2010 to 2020, three broad themes emerged, entailing big data
+   implications for accounting practice, education, and research design. A
+   further examination of the themes revealed few empirical studies on the
+   phenomenon, as conceptual research dominates the field. Although
+   external audit implications of big data are widely discussed, other
+   accounting domains (e.g., managerial accounting and taxation) are
+   underexplored. Therefore, future studies may focus on the implications
+   of big data on variables such as performance measurement, information
+   governance, tax behavior, curriculum design, and pedagogy.
+OI Enusah, Abdulai/0000-0002-7957-8782
+ZB 0
+ZR 0
+Z8 0
+TC 2
+ZS 0
+ZA 0
+Z9 2
+SN 1055-615X
+EI 1099-1174
+UT WOS:000761585600001
+ER
+
+PT J
+AU Campos Posada, Raul
+   Escribano Hervis, Elmys
+   Campos Posada, Gloria Elise
+   Boulet Martinez, Ruhadmi
+   Vazquez Horta, Frank
+TI LEARNING ANALYTICS, A CHALLENGE TO THE PERFO RMANCE OF TEACHING STAFF
+SO REVISTA UNIVERSIDAD Y SOCIEDAD
+VL 14
+IS 6
+BP 40
+EP 48
+DT Article
+PD NOV-DEC 2022
+PY 2022
+AB Learning analytics and its emergence in the contemporary educational
+   context are addressed. The objective is to assess the signifi-cance and
+   emergence of learning analytics in the field of educational sciences and
+   its possible contribution to the quality of the per-formance of teaching
+   staff. A conceptual understanding of learning analytics is established
+   and a reflection is made on the breadth of benefits linked to
+   educational sciences, the applications and resources that aid education,
+   learning, as well as new opportunities for performance improvement of
+   the teaching staff. The most significant challenges to take into account
+   in the management of learning analytics for scientific-research and
+   educational purposes are also identified. Methods of the theoretical
+   level of knowledge are used that allow to locate, classify, process,
+   systematize and elaborate the new knowledge. As a conclusion, the
+   urgency of updating the teaching staff directed at three aspects is
+   reinforced: first, the contents of the discipline it teaches; second,
+   the content of educational sciences; and third, the development of the
+   digital skills necessary in their professional work in a systematic way.
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+TC 0
+Z9 0
+SN 2218-3620
+UT WOS:000897544600006
+ER
+
+PT J
+AU Gaftandzhieva, Silvia
+   Doneva, Rositsa
+   Pashev, George
+   Docheva, Mariya
+TI LEARNING ANALYTICS TOOL FOR BULGARIAN SCHOOL EDUCATION
+SO MATHEMATICS AND INFORMATICS
+VL 64
+IS 4
+BP 410
+EP 424
+DI 10.53656/math2021-4-2-lea
+DT Article
+PD 2021
+PY 2021
+AB Nowadays, schools use many information systems to automate their
+   activities for different stakeholders' groups - learning management
+   systems, student diary, library systems, digital repositories, financial
+   management and accounting systems, document processing systems, etc. The
+   huge amount of data generated by the users of these systems, led to
+   increased interest in the collection and analysis of data to encourage
+   students to achieve higher results, teachers to provide personalized
+   support and school managers to make data-driven decisions at all levels
+   of school, and stimulates research into the application of Learning
+   Analytics (LA) in schools. The paper presents a LA model and a software
+   prototype of the LA tool designed for the needs of Bulgarian school
+   education from the perspective of different stakeholder groups
+   (students, teachers, class teachers, parents, school managers,
+   inspectors from evaluation agencies), aiming to improve school methods
+   of approaching and analyzing learning data. The tool allows stakeholders
+   to track data for students' learning or training for different purposes,
+   e.g. monitoring, analysis, forecast, intervention, recommendations,
+   etc., but finally to improve the quality of learning and teaching
+   processes. Research and experiments with the model and the LA tool under
+   consideration are conducted based on the information infrastructure of a
+   typical Bulgarian school.
+RI Gaftandzhieva, Silvia/H-8925-2016
+OI Gaftandzhieva, Silvia/0000-0002-0569-9776
+ZR 0
+ZB 0
+ZA 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 1310-2230
+EI 1314-8532
+UT WOS:000710556200004
+ER
+
+PT J
+AU Bellini, Claudia
+   De Santis, Annamaria
+   Sannicandro, Katia
+   Minerva, Tommaso
+TI DATA MANAGEMENT IN LEARNING ANALYTICS: TERMS AND PERSPECTIVES
+SO JOURNAL OF E-LEARNING AND KNOWLEDGE SOCIETY
+VL 15
+IS 3
+SI SI
+BP 133
+EP 144
+DI 10.20368/1971-8829/1135021
+DT Article
+PD SEP 2019
+PY 2019
+AB Online teaching environments acquire extremely high granularity of data,
+   both on users' personal profiles and on their behaviour and results.
+   Learning Analytics (LA) is open to numerous possible research scenarios
+   thanks to the development of technology and the speed of data
+   collection.
+   One characteristic element is that the data are not anonymous, but they
+   reproduce a personalization and identification of the profiles.
+   Identifiability of the student is implicit in the teaching process, but
+   access to Analytics techniques reveals a fundamental question: "What is
+   the limit?" The answer to this question should be preliminary to any use
+   of data by students, teachers, instructors and managers of the online
+   learning environments.
+   In the present day, we are also experiencing a particular moment of
+   change: the effects of the European General Data Protection Regulation
+   (GDPR) 679/2016, the general regulation on the protection of personal
+   data that aims to standardize all national legislation and adapt it to
+   the new needs dictated by the evolving technological context.
+   The objective of this work is to propose a three-point checklist of the
+   questions connected to the management and limits of teachers' use of
+   data in Learning Analytics and students' right of transparency in the
+   context of Higher Digital Education, to take into account before
+   conducting research.
+   To this end, the paper contains an examination of the literature on
+   privacy and ethical debates in LA. Work continues with legislative
+   review, particularly the Italian path, and the discussion about online
+   data management in our current universities' two contexts: technology
+   and legislation.
+OI SANNICANDRO, Katia/0000-0001-6364-1786; MINERVA,
+   Tommaso/0000-0001-8612-698X; De Santis, Annamaria/0000-0001-7680-2956
+TC 2
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+Z9 2
+SN 1826-6223
+EI 1971-8829
+UT WOS:000511122200011
+ER
+
+PT J
+AU Nielsen, Steen
+TI Management accounting and the concepts of exploratory data analysis and
+   unsupervised machine learning: a literature study and future directions
+SO JOURNAL OF ACCOUNTING AND ORGANIZATIONAL CHANGE
+VL 18
+IS 5
+BP 811
+EP 853
+DI 10.1108/JAOC-08-2020-0107
+EA MAR 2022
+DT Article
+PD OCT 4 2022
+PY 2022
+AB Purpose This paper contributes to the literature by discussing the
+   impact of machine learning (ML) on management accounting (MA) and the
+   management accountant based on three sources: academic articles, papers
+   and reports from accounting bodies and consulting companies. The purpose
+   of this paper is to identify, discuss and provide suggestions for how ML
+   could be included in research and education in the future for the
+   management accountant. Design/methodology/approach This paper identifies
+   three types of studies on the influence of ML on MA issued between 2015
+   and 2021 in mainstream accounting journals, by professional accounting
+   bodies and by large consulting companies. Findings First, only very few
+   academic articles actually show examples of using ML or using different
+   algorithms related to MA issues. This is in contrast to other research
+   fields such as finance and logistics. Second, the literature review also
+   indicates that if the management accountants want to keep up with the
+   demand of their qualifications, they must take action now and begin to
+   discuss how big data and other concepts from artificial intelligence and
+   ML can benefit MA and the management accountant in specific ways.
+   Originality/value Even though the paper may be classified as
+   inspirational in nature, the paper documents and discusses the revised
+   environment that surrounds the accountant today. The paper concludes by
+   highlighting specifically the necessity of including exploratory data
+   analysis and unsupervised ML in the field of MA to close the existing
+   gaps in both education and research and thus making the MA profession
+   future-proof.
+ZS 0
+Z8 0
+ZA 0
+TC 1
+ZB 0
+ZR 0
+Z9 1
+SN 1832-5912
+EI 1839-5473
+UT WOS:000769413800001
+ER
+
+PT J
+AU Whitelock-Wainwright, Alexander
+   Gasevic, Dragan
+   Tsai, Yi-Shan
+   Drachsler, Hendrik
+   Scheffel, Maren
+   Munoz-Merino, Pedro J.
+   Tammets, Kairit
+   Delgado Kloos, Carlos
+TI Assessing the validity of a learning analytics expectation instrument: A
+   multinational study
+SO JOURNAL OF COMPUTER ASSISTED LEARNING
+VL 36
+IS 2
+BP 209
+EP 240
+DI 10.1111/jcal.12401
+DT Article
+PD APR 2020
+PY 2020
+AB To assist higher education institutions in meeting the challenge of
+   limited student engagement in the implementation of Learning Analytics
+   services, the Questionnaire for Student Expectations of Learning
+   Analytics (SELAQ) was developed. This instrument contains 12 items,
+   which are explained by a purported two-factor structure of "Ethical and
+   Privacy Expectations" and "Service Feature Expectations." As it stands,
+   however, the SELAQ has only been validated with students from UK
+   university, which is problematic on account of the interest in Learning
+   Analytics extending beyond this context. Thus, the aim of the current
+   work was to assess whether the translated SELAQ can be validated in
+   three contexts (an Estonian, a Spanish, and a Dutch University). The
+   findings show that the model provided acceptable fits in both the
+   Spanish and Dutch samples, but was not supported in the Estonian student
+   sample. In addition, an assessment of local fit is undertaken for each
+   sample, which provides important points that need to be considered in
+   future work. Finally, a general comparison of expectations across
+   contexts is undertaken, which are discussed in relation to the General
+   Data Protection Regulation (2018).
+RI Kloos, Carlos Delgado/X-6670-2019; Delgado Kloos, Carlos/C-2876-2011; Gasevic, Dragan/AAT-3909-2020; Munoz-Merino, Pedro/E-1678-2011; Drachsler, Hendrik/; Whitelock-Wainwright, Alexander/; Tsai, Yi-Shan/
+OI Kloos, Carlos Delgado/0000-0003-4093-3705; Delgado Kloos,
+   Carlos/0000-0003-4093-3705; Gasevic, Dragan/0000-0001-9265-1908;
+   Munoz-Merino, Pedro/0000-0002-2552-4674; Drachsler,
+   Hendrik/0000-0001-8407-5314; Whitelock-Wainwright,
+   Alexander/0000-0003-3033-4629; Tsai, Yi-Shan/0000-0001-8967-5327
+TC 12
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+Z9 12
+SN 0266-4909
+EI 1365-2729
+UT WOS:000518222600008
+ER
+
+PT J
+AU Garcia-Penalvo, Francisco Jose
+TI Avoiding the Dark Side of Digital Transformation in Teaching. An
+   Institutional Reference Framework for eLearning in Higher Education
+SO SUSTAINABILITY
+VL 13
+IS 4
+AR 2023
+DI 10.3390/su13042023
+DT Article
+PD FEB 2021
+PY 2021
+AB The purpose of this paper is to define a reference framework for
+   introducing eLearning practices in mainly face-to-face higher education
+   institutions. We suggest a suitable adoption and management of
+   associated infrastructures and processes, in order to guarantee the
+   ethical use of data in the related academic and learning analytics. A
+   theoretical framework is proposed after years of practice and experience
+   in the institutional government of IT processes related to learning
+   technology. The digital transformation of teaching should imply the
+   right technological decisions made by people and for people, in order to
+   achieve a more inclusive, participative, and human university supported
+   by technology. digital transformation is a social requirement of
+   governments, companies, and institutions, and it should take into
+   account the associated risks of the unethical use of technology, which
+   leads to the dark side of transformation processes. eLearning
+   approaches, especially with the influence of the COVID-19 outbreaks, are
+   increasing the need for digital mechanisms in universities. Further,
+   there is a need for strategical support and reference models if we are
+   to avoid these undesired effects.
+RI GARCÍA-PEÑALVO, Francisco José/D-5445-2013
+OI GARCÍA-PEÑALVO, Francisco José/0000-0001-9987-5584
+Z8 0
+ZB 0
+ZR 0
+ZS 1
+ZA 0
+TC 40
+Z9 41
+EI 2071-1050
+UT WOS:000624808300001
+ER
+
+PT J
+AU Pervan, Ivica
+   Dropulic, Ivana
+TI THE IMPACT OF INTEGRATED INFORMATION SYSTEMS ON MANAGEMENT ACCOUNTING:
+   CASE OF CROATIA
+SO MANAGEMENT-JOURNAL OF CONTEMPORARY MANAGEMENT ISSUES
+VL 24
+IS 1
+BP 21
+EP 38
+DI 10.30924/mjcmi.24.1.2
+DT Article
+PD JUN 2019
+PY 2019
+AB The main aim of this study is to analyze how implementation of
+   integrated information systems (IIS) effects management accounting.
+   Findings based on data collected from 108 Croatian firms confirmed that
+   IIS implementation caused significant management accounting changes.
+   Estimated regression models revealed that the most important IIS
+   characteristic were the analytical capabilities since it positively
+   influenced management accounting changes in four dimensions: internal
+   reporting, budgeting, application of modern accounting techniques and
+   management accounting employees' jobs. The quality of IIS implementation
+   statistically significantly and positively influenced changes related to
+   data collection and internal reporting. In the segment of budgeting, the
+   quality of implementation of specialized budgeting software had
+   significant and positive influence. The only negative correlation found
+   was the one between the uncertainty of business environment and adoption
+   of modern accounting techniques. Findings from this study provide unique
+   insight into effects of IIS implementation in Croatian firms and can be
+   used by different stakeholders. Firms and IIS vendors should put special
+   focus on implementation of business analytics modules in order to
+   achieve comprehensive benefits in management accounting practices.
+   Providers of accountant's education should consider the fact that
+   contemporary IIS systems' environment calls for development of
+   additional skills in the area of information technology, business
+   processes and business communication.
+RI Pervan, Ivica/AAS-8455-2021; Pervan, Ivica/ABC-1042-2021; Pervan, Ivica/D-4779-2017; Dropulic, Ivana/D-4809-2017
+OI Pervan, Ivica/0000-0003-1987-7702; Pervan, Ivica/0000-0003-1987-7702;
+   Dropulic, Ivana/0000-0003-3128-706X
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+ZA 1
+TC 5
+Z9 6
+SN 1331-0194
+EI 1846-3363
+UT WOS:000473307700002
+ER
+
+PT J
+AU Uwizeyemungu, Sylvestre
+   Bertrand, Jacques
+   Poba-Nzaou, Placide
+TI Patterns underlying required competencies for CPA professionals: a
+   content and cluster analysis of job ads
+SO ACCOUNTING EDUCATION
+VL 29
+IS 2
+BP 109
+EP 136
+DI 10.1080/09639284.2020.1737157
+EA APR 2020
+DT Article
+PD MAR 3 2020
+PY 2020
+AB In today's dynamic environment, the adaptation of the accounting
+   profession to meet actual socio-economic needs is a challenging, and yet
+   necessary, task. This study analyzes the technical competency
+   requirements signalled in 171 online job advertisements for accounting
+   positions by Canadian organizations and contrasts them with the CPA
+   Canada competency framework, which serves as the basis for the training
+   and accreditation of professional accountants. Following a content and a
+   cluster analysis of the job ads, three well-separated and meaningful
+   profiles of positions are uncovered based on technical competencies that
+   Canadian organizations required when hiring accountants: the financial
+   reporting, the tax aggressiveness, and the performance management
+   profiles. From a practical standpoint, this study provides the Canadian
+   accounting professional body, as well as educators in the accounting
+   field, with insights regarding the expectations of the job market. The
+   study also has implications in accounting education beyond the Canadian
+   context.
+OI POBA-NZAOU, Placide/0000-0002-7007-764X
+ZB 0
+ZR 0
+ZS 0
+TC 13
+ZA 0
+Z8 0
+Z9 13
+SN 0963-9284
+EI 1468-4489
+UT WOS:000524139100001
+ER
+
+PT J
+AU Onyshchenko, Oksana
+   Shevchuk, Kateryna
+   Shara, Yevheniia
+   Koval, Nataliia
+   Demchuk, Olena
+TI INDUSTRY 4.0 AND ACCOUNTING: DIRECTIONS, CHALLENGES, OPPORTUNITIES
+SO INDEPENDENT JOURNAL OF MANAGEMENT & PRODUCTION
+VL 13
+IS 3
+SI SI
+BP S161
+EP S195
+DI 10.14807/ijmp.v13i3.1993
+DT Article
+PD MAY 2022
+PY 2022
+AB The purpose of the study was to reveal the directions, challenges and
+   opportunities that arise in the accounting system in the conditions of
+   Industry 4.0, when innovative solutions based on the capabilities of new
+   digital technologies become the management of in-demand enterprises. The
+   role of Industry 4.0 is shown, the features of modern Industry 4
+   technologies are revealed, the main technologies and production
+   processes are demonstrated, interconnected using industrial protocols to
+   create intelligent data. The rating of digital competitiveness and their
+   readiness to implement Industry 4.0 technologies for 64 countries of the
+   world is given and analyzed These factors hinder the process of
+   digitalization in countries with a low rating. The influence of Industry
+   4.0 on the accounting system is determined and the technologies affected
+   by the fourth industrial revolution in terms of accounting (Big Data or
+   Data Analytics, Cloud Computing, AI, Blockchain, Internet of Things
+   (IoT), Robotic Process Automation) and changes waiting for the
+   profession of accountant. The coordination of efforts of business,
+   education and the state in the context of the development of Industry
+   4.0 technologies was noted.
+RI Shevchuk, Kateryna Vitaliivna/H-7490-2018; Koval, Natalia/L-5920-2018; Onyshchenko, Oksana/AAD-7359-2022; Onyshchenko, Oksana/U-1212-2017; Демчук, Олена/AAW-3223-2020
+OI Shevchuk, Kateryna Vitaliivna/0000-0002-9284-0343; Koval,
+   Natalia/0000-0002-2877-4302; Onyshchenko, Oksana/0000-0003-3272-9755; 
+ZA 0
+ZB 0
+TC 0
+ZR 0
+Z8 0
+ZS 0
+Z9 0
+SN 2236-269X
+UT WOS:000795794100010
+ER
+
+PT J
+AU Cormack, Sophie H.
+   Eagle, Laurence A.
+   Davies, Mark S.
+TI A large-scale test of the relationship between procrastination and
+   performance using learning analytics
+SO ASSESSMENT & EVALUATION IN HIGHER EDUCATION
+VL 45
+IS 7
+BP 1046
+EP 1059
+DI 10.1080/02602938.2019.1705244
+EA JAN 2020
+DT Article
+PD OCT 2 2020
+PY 2020
+AB Many studies have found a relationship between students' self-reported
+   procrastination and their grades. Few studies have used learning
+   analytic data as a behavioural measure of procrastination in order to
+   predict performance, and there is no systematic research on how this
+   relationship may differ across assessments or disciplines. In this study
+   we analyse nine years' worth of institutional electronic submission
+   records, a total of 73,608 assignment submissions, to examine the
+   relationship between submission time and grades across assignments,
+   students, courses, and disciplines in higher education. A significant
+   negative relationship was found overall, with students who submitted
+   closer to the deadline obtaining lower grades, however the size of the
+   relationship was negligible, accounting for less than 1% of the variance
+   in grades. The relationship varied significantly depending on student,
+   assignment, course and discipline.
+RI Cormack, Sophie/AAD-6998-2020; Cormack, Sophie/AAD-6466-2020; Eagle, Laurence/
+OI Cormack, Sophie/0000-0001-9151-7029; Eagle, Laurence/0000-0002-6831-7106
+ZB 0
+ZA 0
+ZS 0
+TC 13
+ZR 0
+Z8 1
+Z9 14
+SN 0260-2938
+EI 1469-297X
+UT WOS:000505901900001
+ER
+
+PT J
+AU Jin, Minyan
+   Yao, Li
+TI Influence Mechanism of Educational Leadership on Environmental
+   Accounting Based on Big Data Algorithm
+SO JOURNAL OF ENVIRONMENTAL AND PUBLIC HEALTH
+VL 2022
+AR 5690230
+DI 10.1155/2022/5690230
+DT Article
+PD OCT 6 2022
+PY 2022
+AB Over the last 20 years, big data techniques in teaching have been
+   overgrown. Making educational decisions now includes information
+   knowledge as a crucial component. This started a trend for using big
+   data algorithms strategically. Technological advances have been used to
+   analyze the enormous amount of information and develop strategic
+   judgments. The current study aims to address issues with the
+   conventional instructional, administrative management solution focused
+   on manual rule formulation in big data storage and interpretation and
+   has poor efficiency in analyzing big data and lacking value in
+   developing education leadership qualities. The study suggests an
+   educational leadership model based on big data algorithm (ELM-BDA) to
+   explore the student leadership performance that relies on cooperative
+   filtration and fuzzy C-means (FCM) and big data. The different
+   influencing mechanisms and factors directly linked to educational
+   leadership were also analyzed using a big data algorithm. To build an
+   intelligent institutional administrative system, the research also
+   exposes it to organizational studies. By evaluating the big data
+   research already in existence, this study emphasizes the expanding
+   significance of big data. Additionally, this study explores the effects
+   of big data analytics on educational leadership qualities by utilizing
+   an FCM. A scoring system is designed to predict the student's leadership
+   level, and using the big data algorithms, the students are motivated and
+   trained to improve their skills. The education and learning method can
+   be enhanced at educational institutions through better decision-making
+   to use this big data for leadership development. Big data facilitates
+   efficient educational decision-making by merging various data and
+   telecommunications technologies. Using big data in schooling will
+   increase-leadership quality among students. To effectively use big data
+   for decision-making, academic leaders must create new types of learning
+   and monitoring systems.
+TC 0
+Z8 0
+ZS 0
+ZB 0
+ZA 0
+ZR 0
+Z9 0
+SN 1687-9805
+EI 1687-9813
+UT WOS:000869960500008
+PM 36246477
+ER
+
+PT J
+AU Conde, Miguel A.
+   Colomo-Palacios, Ricardo
+   Garcia-Penalvo, Francisco J.
+   Larrucea, Xabier
+TI Teamwork assessment in the educational web of data: A learning analytics
+   approach towards ISO 10018
+SO TELEMATICS AND INFORMATICS
+VL 35
+IS 3
+SI SI
+BP 551
+EP 563
+DI 10.1016/j.tele.2017.02.001
+DT Article
+PD JUN 2018
+PY 2018
+AB The Web of Data is an emerging research field that contributes to make
+   better decisions because it gathers, combines and analyses different
+   data sources available worldwide. Educational data is an interesting
+   domain because it deals with the quality of the education itself and
+   educational institutions which are common goals for every country. This
+   paper is devoted to present how this idea has been used to improve a
+   learning analytics tool. By means of this tool, teachers can perform
+   teamwork competence assessment of a group of students taking into
+   account how the individuals acquire the essential components of such
+   competence. In this sense, authors use the Comprehensive Training Model
+   of the Teamwork Competence in Engineering Domain (CTMTC) method to
+   gather competence evidences and improve the system with a learning
+   analytics tool to support the process. This tool is able to transform
+   competence evidences and stores them in a competence ontology built upon
+   ISO 10018 concepts. The final result is the production of educational
+   results for the web of data. (C) 2017 Elsevier Ltd. All rights reserved.
+RI Larrucea, Xabier/Y-9017-2019; GARCÍA-PEÑALVO, Francisco José/D-5445-2013; Conde, Miguel Ángel/L-3882-2014
+OI Larrucea, Xabier/0000-0002-6402-922X; GARCÍA-PEÑALVO, Francisco
+   José/0000-0001-9987-5584; Conde, Miguel Ángel/0000-0001-5881-7775
+TC 86
+Z8 1
+ZR 0
+ZA 0
+ZB 0
+ZS 0
+Z9 87
+SN 0736-5853
+UT WOS:000430520100004
+ER
+
+PT J
+AU Yang, Albert C. M.
+   Chen, Irene Y. L.
+   Flanagan, Brendan
+   Ogata, Hiroaki
+TI From Human Grading to Machine Grading: Automatic Diagnosis of e-Book
+   Text Marking Skills in Precision Education
+SO EDUCATIONAL TECHNOLOGY & SOCIETY
+VL 24
+IS 1
+BP 164
+EP 175
+DT Article
+PD JAN 2021
+PY 2021
+AB Precision education is a new challenge in leveraging artificial
+   intelligence, machine learning, and learning analytics to enhance
+   teaching quality and learning performance. To facilitate precision
+   education, text marking skills can be used to determine students'
+   learning process. Text marking is an essential learning skill in
+   reading. In this study, we proposed a model that leverages the
+   state-of-the-art text summarization technique, Bidirectional Encoder
+   Representations from Transformers (BERT), to calculate the marking score
+   for 130 graduate students enrolled in an accounting course. Then, we
+   applied learning analytics to analyze the correlation between their
+   marking scores and learning performance. We measured students'
+   self-regulated learning (SRL) and clustered them into four groups based
+   on their marking scores and marking frequencies to examine whether
+   differences in reading skills and text marking influence students'
+   learning performance and awareness of self-regulation. Consistent with
+   past research, our results did not indicate a strong relationship
+   between marking scores and learning performance. However, high-skill
+   readers who use more marking strategies perform better in learning
+   performance, task strategies, and time management than high-skill
+   readers who use fewer marking strategies. Furthermore, high-skill
+   readers who actively employ marking strategies also achieve superior
+   scores of environment structure, and task strategies in SRL than
+   low-skill readers who are inactive in marking. The findings of this
+   research provide evidence supporting the importance of monitoring and
+   training students' text marking skill and facilitating precision
+   education.
+RI Flanagan, Brendan J/B-6234-2016
+OI Flanagan, Brendan J/0000-0001-7644-997X
+Z8 0
+TC 3
+ZA 0
+ZR 0
+ZS 0
+ZB 0
+Z9 3
+SN 1176-3647
+EI 1436-4522
+UT WOS:000624582400013
+ER
+
+PT J
+AU Lopez-Pernas, Sonsoles
+   Saqr, Mohammed
+   Viberg, Olga
+TI Putting It All Together: Combining Learning Analytics Methods and Data
+   Sources to Understand Students' Approaches to Learning Programming
+SO SUSTAINABILITY
+VL 13
+IS 9
+AR 4825
+DI 10.3390/su13094825
+DT Article
+PD MAY 2021
+PY 2021
+AB Learning programming is a complex and challenging task for many
+   students. It involves both understanding theoretical concepts and
+   acquiring practical skills. Hence, analyzing learners' data from online
+   learning environments alone fails to capture the full breadth of
+   students' actions if part of their learning process takes place
+   elsewhere. Moreover, existing studies on learning analytics applied to
+   programming education have mainly relied on frequency analysis to
+   classify students according to their approach to programming or to
+   predict academic achievement. However, frequency analysis provides
+   limited insights into the individual time-related characteristics of the
+   learning process. The current study examines students' strategies when
+   learning programming, combining data from the learning management system
+   and from an automated assessment tool used to support students while
+   solving the programming assignments. The study included the data of 292
+   engineering students (228 men and 64 women, aged 20-26) from the two
+   aforementioned sources. To gain an in-depth understanding of students'
+   learning process as well as of the types of learners, we used learning
+   analytics methods that account for the temporal order of learning
+   actions. Our results show that students have special preferences for
+   specific learning resources when learning programming, namely, slides
+   that support search, and copy and paste. We also found that videos are
+   relatively less consumed by students, especially while working on
+   programming assignments. Lastly, students resort to course forums to
+   seek help only when they struggle.
+RI López-Pernas, Sonsoles/M-7375-2019; Saqr, Mohammed/AAH-2520-2020
+OI López-Pernas, Sonsoles/0000-0002-9621-1392; Saqr,
+   Mohammed/0000-0001-5881-3109
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+TC 9
+Z9 9
+EI 2071-1050
+UT WOS:000650905300001
+ER
+
+PT J
+AU Sharma, Aarti Mehta
+   Srivastav, Anshu
+TI Study to Assess Attitudes towards Statistics of Business School
+   Students: An Application of the SATS-36 in India
+SO INTERNATIONAL JOURNAL OF INSTRUCTION
+VL 14
+IS 3
+BP 207
+EP 222
+DI 10.29333/iji.2021.14312a
+DT Article
+PD JUL 2021
+PY 2021
+AB Student's attitudes towards Statistics are pivotal to their learning
+   process as positive attitudes lead to highly satisfactory course
+   achievement and lead to positive outcomes outside class as well. In this
+   paper we are exploring the perception of students of management apropos
+   Statistics, familiarity with which is imperative in today's world of
+   Analytics. The quantitative approach was used to compare attitudes of
+   the students using the two versions of the "SATS-36" instrument
+   validated and copyrighted by Candace Schau. A Google form was used to
+   collect responses and was sent to all the students who were enrolled in
+   the Business Statistics course. 172 students responded for the pre-test
+   study while 71 students responded for the post-test study. Data was
+   analysed to see if gender, specialisation choices and previous math
+   experiences accounted for differences in perceptions towards Statistics.
+   It was found that students' overall perception of statistics is positive
+   and surprisingly they were more positive towards the beginning of the
+   semester. These results are important as they can lead towards
+   understanding of business student's attitudes towards statistics and a
+   way to refine the teaching learning process so that students are in a
+   strong position to exploit the supply demand gap in the Analytics domain
+   and deliver value to organisations.
+RI Sharma, Aarti/ABA-9214-2021
+TC 1
+ZA 0
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+Z9 1
+SN 1694-609X
+EI 1308-1470
+UT WOS:000667304100013
+ER
+
+PT J
+AU Robinson, Lyn
+   Bawden, David
+TI " The story of data" A socio-technical approach to education for the
+   data librarian role in the CityLIS library school at City, University of
+   London
+SO LIBRARY MANAGEMENT
+VL 38
+IS 6-7
+SI SI
+BP 312
+EP 322
+DI 10.1108/LM-01-2017-0009
+DT Article
+PD 2017
+PY 2017
+AB Purpose - The purpose of this paper is to describe a new approach to
+   education for library/information students in data literacy - the
+   principles and practice of data collection, manipulation and management
+   - as a part of the Masters programmes in library and information science
+   (CityLIS) at City, University of London.
+   Design/methodology/approach - The course takes a socio-technical
+   approach, integrating, and giving equal importance to, technical and
+   social/ethical aspects. Topics covered include: the relation between
+   data, information and documents; representation of digital data; network
+   technologies; information architecture; metadata; data structuring;
+   search engines, databases and specialised retrieval tools; text and data
+   mining, web scraping; data cleaning, manipulation, analysis and
+   visualisation; coding; data metrics and analytics; artificial
+   intelligence; data management and data curation; data literacy and data
+   ethics; and constructing data narratives.
+   Findings - The course, which was well received by students in its first
+   iteration, gives a basic grounding in data literacy, to be extended by
+   further study, professional practice and lifelong learning.
+   Originality/value - This is one of the first accounts of an introductory
+   course to equip all new entrants to the library/information professions
+   with the understanding and skills to take on roles in data librarianship
+   and data management.
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+ZS 0
+TC 11
+Z9 11
+SN 0143-5124
+EI 1758-7921
+UT WOS:000409825600004
+ER
+
+PT J
+AU Feldman, Keith
+   Rohan, Annie J.
+TI DATA DRIVEN NURSE STAFFING IN THE NEONATAL INTENSIVE CARE UNIT
+SO MCN-THE AMERICAN JOURNAL OF MATERNAL-CHILD NURSING
+VL 47
+IS 5
+BP 249
+EP 264
+DI 10.1097/NMC.0000000000000839
+DT Article
+PD SEP-OCT 2022
+PY 2022
+AB The challenge of nurse staffing is amplified in the acute care neonatal
+   intensive care unit (NICU) setting, where a wide range of highly
+   variable factors affect staffing. A comprehensive overview of infant
+   factors (severity, intensity), nurse factors (education, experience,
+   preferences, team dynamics), and unit factors (structure, layout, shift
+   length, care model) influencing pre-shift NICU staffing is presented,
+   along with how intra-shift variability of these and other factors must
+   be accounted for to maintain effective and efficient assignments. There
+   is opportunity to improve workload estimations and acuity measures for
+   pre-shift staffing using technology and predictive analytics. Nurse
+   staffing decisions affected by intra-shift factor variability can be
+   enhanced using novel care models that decentralize decision-making.
+   Improving NICU staffing requires a deliberate, systematic, data-driven
+   approach, with commitment from nurses, resources from the management
+   team, and an institutional culture prioritizing patient safety.
+TC 1
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+ZA 0
+Z9 1
+SN 0361-929X
+EI 1539-0683
+UT WOS:000839625100005
+PM 35960217
+ER
+
+PT J
+AU Almutairi, Faisal M.
+   Sidiropoulos, Nicholas D.
+   Karypis, George
+TI Context-Aware Recommendation-Based Learning Analytics Using Tensor and
+   Coupled Matrix Factorization
+SO IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING
+VL 11
+IS 5
+BP 729
+EP 741
+DI 10.1109/JSTSP.2017.2705581
+DT Article
+PD AUG 2017
+PY 2017
+AB Student retention and timely graduation are enduring challenges in
+   higher education. With the rapidly expanding collection and availability
+   of learning data and related analytics, student performance can be
+   accurately monitored, and possibly predicted ahead of time, thus,
+   enabling early warning and degree planning "expert systems" to provide
+   disciplined decision support to counselors, advisors, and educators.
+   Previous work in educational data mining has explored matrix
+   factorization techniques for grade prediction, albeit without taking
+   contextual information into account. Temporal information should be
+   informative as it distinguishes between the different class offerings
+   and indirectly captures student experience as well. To exploit temporal
+   and/or other kinds of context, we develop three approaches under the
+   framework of collaborative filtering (CF). Two of the proposed
+   approaches build upon coupled matrix factorization with a shared latent
+   matrix factor. The third utilizes tensor factorization to model grades
+   and their context, without introducing a new mode per context dimension
+   as is common in the CF literature. The latent factors obtained can be
+   used to predict grades and context, if desired. We evaluate these
+   approaches on grade data obtained from the University of Minnesota.
+   Experimental results show that fairly good prediction is possible even
+   with simple approaches, but very accurate prediction is hard. The more
+   advanced approaches can increase prediction accuracy, but only up to a
+   point for the particular dataset considered.
+OI Sidiropoulos, Nicholas/0000-0002-3385-7911
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+TC 29
+Z8 3
+Z9 32
+SN 1932-4553
+EI 1941-0484
+UT WOS:000407758500003
+ER
+
+PT J
+AU Castro, Vincent Bicudode
+   Sridharan, Bhavani
+   Watty, Kim
+   Safari, Maryam
+TI The impact of learner engagement on performance outcomes: a longitudinal
+   study in accounting education
+SO ACCOUNTING AND FINANCE
+VL 61
+BP 1639
+EP 1664
+DI 10.1111/acfi.12640
+EA APR 2020
+SU 1
+DT Article
+PD APR 2021
+PY 2021
+AB This study explores the efficacy of vodcasting, as one of the advanced
+   means of lecture recording, and discussion forums using retrospective
+   engagement analytics data and performance outcome data on 1,172 unique
+   students. The results provide partial support for the research
+   hypotheses, particularly for international students, with learner
+   engagement as a strong predictor of enhanced performance outcomes.
+   However, no support was found for domestic students, with no significant
+   impact of engagement on performance outcomes. That is, learner
+   engagement may be more beneficial for international students than for
+   domestic students. The findings support the implementation of discussion
+   forums for enabling meaningful conversation, knowledge acquisition and
+   peer engagement. This could pave the way for a knowledge-sharing culture
+   as opposed to a knowledge-hoarding culture. Overall, the findings offer
+   insights for higher education providers who have large international
+   student enrolments and are interested in diversity management strategies
+   and enhanced student engagement using disruptive technology.
+RI Bicudo de Castro, Vicente/AAF-6123-2019
+OI Bicudo de Castro, Vicente/0000-0002-1453-6733
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+ZB 0
+TC 2
+Z9 2
+SN 0810-5391
+EI 1467-629X
+UT WOS:000524335800001
+ER
+
+PT J
+AU Fink-Samnick, Ellen
+TI Managing the Social Determinants of Health: Part II: Leveraging
+   Assessment Toward Comprehensive Case Management
+SO PROFESSIONAL CASE MANAGEMENT
+VL 23
+IS 5
+BP 240
+EP 255
+DI 10.1097/NCM.0000000000000308
+DT Article
+PD SEP-OCT 2018
+PY 2018
+AB Behavioral Learning Objectives: This article will: Explore health care
+   industry considerations for the social determinants of health (SDH).
+   Identify industry initiatives and reimbursement strategies. Discuss
+   SDH-focused assessment tools for professional case managers. Present and
+   apply the Comprehensive Case Management Path.
+   Primary Practice Settings(s): Applicable to health and behavioral health
+   settings where case management is practiced.
+   Findings/Conclusions: When professional case managers use comprehensive
+   assessments to inform their work with populations impacted by the SDH,
+   barriers to care access can be more readily addressed (e.g., poverty,
+   employment, housing insufficiency, health literacy, migration, and
+   medication adherence). Initiatives, programming, and treatment plans can
+   be advanced to provide target populations with individualized and
+   appropriate intervention. Case management involvement can also be
+   leveraged to coordinate and facilitate successful interprofessional team
+   efforts (Casteneda, Holmes, Madrigal, DeTrinidad, Beyeler, & Quesada,
+   2015; Davis, 2016).
+   Implications for Case Management Practice: Case managers must engage
+   clients from a wholistic lens that reflects their standards of practice
+   and accounts for all domains of assessment: medical, cognitive and
+   behavioral, functional, and social. Comprehensive tools to guide a
+   robust and exhaustive screening of issues and opportunities ensure more
+   successful outcomes.
+ZB 0
+Z8 0
+ZR 0
+ZA 0
+ZS 1
+TC 5
+Z9 6
+SN 1932-8087
+EI 1932-8095
+UT WOS:000442747600002
+PM 30059462
+ER
+
+PT J
+AU Zhang, Yaqun
+   Ghandour, Ahmad
+   Shestak, Viktor
+TI Using Learning Analytics to Predict Students Performance in Moodle LMS
+SO INTERNATIONAL JOURNAL OF EMERGING TECHNOLOGIES IN LEARNING
+VL 15
+IS 20
+BP 102
+EP 115
+DI 10.3991/ijet.v15i20.15915
+DT Article
+PD 2020
+PY 2020
+AB Today, it is almost impossible to implement teaching processes without
+   using information and communication technologies (ICT), especially in
+   higher education. Education institutions often use learning management
+   systems (LMS), such as Moodle, Edmodo, Canvas, Schoology, Blackboard
+   Learn, and others. When accessing these systems with their personal
+   account, each student's activity is recorded in a log file. Moodle
+   system allows not only information saving. The plugins of this LMS
+   provide a fast and accurate analysis of training statistics. Within the
+   study, the capabilities of several Moodle plugins providing the
+   assessment of students' activity and success are reviewed. The research
+   is aimed at discovering possibilities to improve the learning process
+   and reduce the number of underperforming students. The activity logs of
+   124 participants are analyzed to identify the relations between the
+   number of logs during the e-course and the final grades. In the study, a
+   correlation analysis is performed to determine the impact of students'
+   educational activity in the Moodle system on the final assessment. The
+   results reveal that gender affiliation correlates with the overall
+   performance but does not affect the selection of training materials.
+   Furthermore, it is shown that students who got the highest grades
+   performed at least 210 logs during the course. It is noted that the
+   prevailing part of students prefers to complete the tasks before the
+   deadline. The study concludes that LMSs can be used to predict students'
+   success and stimulate better results during the study. The findings are
+   proposed to be used in higher education institutions for early detection
+   of students experiencing difficulties in a course.
+RI Шестак, Виктор/AAA-1725-2019
+OI Шестак, Виктор/0000-0003-0903-8577
+ZA 0
+TC 16
+ZB 0
+ZS 1
+Z8 0
+ZR 0
+Z9 16
+SN 1863-0383
+UT WOS:000581867900007
+ER
+
+PT J
+AU Rufino da Silva, Dayvson Ricardo
+   Goncalves Ferreira Amorim, Tania Nobre
+TI Technical and transversal skills: perception of teachers in training
+   controllers
+SO CUSTOS E AGRONEGOCIO ON LINE
+VL 18
+IS 2
+BP 123
+EP 143
+DT Article
+PD APR-JUN 2022
+PY 2022
+AB Significant changes in the labor market have been generated due to
+   social, technological, political, and economic transformations, making
+   the organizations' scenario more competitive and complex. To stay
+   competitive, organizations need updated management information, trained
+   professionals who are adapted to the new expectations. Undergraduate
+   courses must use educational strategies that provide holistic knowledge,
+   with an integrative vision and development of competencies that drive
+   their performance in different professional activities, with
+   technical-scientific and market knowledge. Thus, this research aimed to
+   investigate the technical and transversal competences proposed in the
+   training of the controller, from the perception of the professors who
+   teach the disciplines of Controlling and/or Management Accounting, in
+   the Accounting Science undergraduate courses in Recife - PE, in view of
+   the demands of the labor market. Since there is a demand about what
+   would be the profile of the professional controller nowadays, not only
+   in terms of which technical competences are required, but also in
+   relation to transversal competences, this study is justified as it
+   contributes to this theme. This research is classified as exploratory
+   and descriptive in terms of objectives, with a qualitative approach
+   regarding the problem. Data collection was carried out through a survey
+   among the 37 active courses of 35 higher education institutions in
+   Recife - PE, using an electronic questionnaire, obtaining 48.6% of
+   responses from the professors. The study showed that, in the view of the
+   professors, most of the skills most demanded by the job market are
+   technical and just over a third are transversal. All the competences
+   listed for the professors were identified as being worked on in their
+   disciplines, although in different intensities, and the most cited among
+   the technical and transversal competences were: Cost Management,
+   Accounting and Finance, Information Management, Planning, Strategic
+   Vision and Capacity Analytics.
+TC 0
+ZR 0
+ZA 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1808-2882
+UT WOS:000893277100007
+ER
+
+PT J
+AU Perez-delHoyo, Raquel
+   Mora, Higinio
+   Marti-Ciriquian, Pablo
+   Pertegal-Felices, Maria L.
+   Molla-Sirvent, Rafael
+TI Introducing innovative technologies in higher education: An experience
+   in using geographic information systems for the teaching-learning
+   process
+SO COMPUTER APPLICATIONS IN ENGINEERING EDUCATION
+VL 28
+IS 5
+BP 1110
+EP 1127
+DI 10.1002/cae.22287
+EA JUN 2020
+DT Article
+PD SEP 2020
+PY 2020
+AB In today's world, new technologies are being used for the
+   teaching-learning process in the classroom. Their use to support
+   learning can provide significant advantages for the teaching-learning
+   process and have potential benefits for students, as many of these
+   technologies are a part of the work life of many current professions.
+   The aim of this study is to analyse the use of innovative technologies
+   for engineering and science education after examining the data obtained
+   from students in their learning process and experiences. The study has
+   been focused on computational geographic information systems, which
+   allow access to and management of large volumes of information and data,
+   and on the assessment of this tool as a basis for a suitable methodology
+   to enhance the teaching-learning process, taking into account the great
+   social impact of big data. The results allow identifying the main
+   advantages, opportunities, and drawbacks of using these technological
+   tools for educational purposes. Finally, a set of initiatives has been
+   proposed to complement the teaching activity and to improve user
+   experience in the educational field.
+RI Mora, Higinio/L-3347-2014; Pérez-delHoyo, Raquel/C-4307-2015; Jimeno-Morenilla, Antonio/K-5544-2014; Pertegal-Felices, Maria Luisa/H-5049-2015
+OI Mora, Higinio/0000-0002-8591-0710; Pérez-delHoyo,
+   Raquel/0000-0002-0104-6153; Jimeno-Morenilla,
+   Antonio/0000-0002-3789-6475; Pertegal-Felices, Maria
+   Luisa/0000-0002-3716-4485
+TC 5
+ZR 0
+ZA 0
+Z8 0
+ZS 0
+ZB 0
+Z9 5
+SN 1061-3773
+EI 1099-0542
+UT WOS:000540459600001
+ER
+
+PT J
+AU Samanthi, Dinushika
+   Gooneratne, Tharusha
+TI Bean counter to value-adding business partner: the changing role of the
+   accountant and situated rationality in a multinational firm
+SO JOURNAL OF ACCOUNTING AND ORGANIZATIONAL CHANGE
+DI 10.1108/JAOC-04-2022-0063
+EA SEP 2022
+DT Article; Early Access
+PY 2022
+AB Purpose This paper aims to explore the changing role of the accountant
+   amid multiple drivers, responses of accountants and situated rationality
+   in a multinational firm, Max-choice Lanka. Design/methodology/approach
+   It adopts the single-site case study approach under the qualitative
+   methodology and leans on institutional theory, specifically Ter Bogt and
+   Scapens (2019) framework. Findings The case study findings reveal that
+   the role of the accountant has undergone change amid local and broader
+   institutions linked to organizational culture/norms, the influence of
+   the parent company, global trends and technological advancements. Based
+   on evolving situated rationalities, the contemporary accountant performs
+   an agile role as a value-adding business partner; data scientist;
+   strategic decision-maker; and a cross-functional team member. Practical
+   implications At the practice level, identifying drivers influencing the
+   changing role of accountants enables organizations to shape their
+   accounting functions attuned to evolving needs by implementing
+   appropriate strategies and recruiting competent personnel. In the realm
+   of education, it calls for incorporating areas such as big data
+   analytics, artificial intelligence, reporting nonfinancial information
+   and integrated accounting software to the accounting curricular and
+   upskill students based on industry expectations catering to changing
+   roles. Originality/value This paper adds to the ongoing debate on the
+   contemporary role of the accountant. Capitalizing on case study data,
+   this research illuminates the influence of multiplicity of institutions,
+   different forms and situated rationality within this changing role and
+   extends the Ter Bogt and Scapens (2019) framework.
+ZB 0
+TC 0
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+Z9 0
+SN 1832-5912
+EI 1839-5473
+UT WOS:000859048000001
+ER
+
+PT J
+AU Rahman, Norana Abdul
+   Ng, Hannah Jia Hui
+   Rajaratnam, Vaikunthan
+TI Big Data Analysis of a Dedicated YouTube Channel as an Open Educational
+   Resource in Hand Surgery
+SO FRONTIERS IN APPLIED MATHEMATICS AND STATISTICS
+VL 7
+AR 593205
+DI 10.3389/fams.2021.593205
+DT Article
+PD MAR 15 2021
+PY 2021
+AB Background: Educationally designed videos have the advantage of
+   explaining difficult concepts via graphic diagrams and dynamic
+   illustrations. The benefits of videos will be enhanced if videos are
+   well-designed, concise, explore scientifically correct content, and have
+   a clear presentation. Aims: Video as an open educational resource (OER)
+   is the cornerstone for online learning. YouTube has been widely used as
+   a distribution platform for OER. The aim of this study was to evaluate
+   the engagement of hand surgery videos on a dedicated education channel
+   on YouTube. Methods: The senior author has been utilizing a YouTube
+   channel dedicated to the education of clinicians in Hand Surgery,
+   surgical education, and management since 2008. The degree of engagement
+   was evaluated using YouTube Analytics, providing up-to-date metrics and
+   reports. Results: Since 2008, there have been 6521 subscribers with
+   1,360,680 views, a total view time of 35,033 h and an average view time
+   of 1.72 min. The channel views averaged 1000 views per day. There were
+   4,324,724 impressions with a 7.32% click-through rate, with the United
+   States of America accounting for 23.5% of the audience. YouTube search
+   accounted for 33.3% of the traffic source and suggested videos by others
+   were 19.4%, and external links were 19%. Playback location was through
+   mobile devices in 76.7%, while 16% was through the computer. The two
+   popular playlists were "flaps in hand surgery" (50.2%) and "basic hand
+   surgery workshop" (21.9%). Sharing by WhatsApp was most popular (27.9%)
+   in embedded websites and apps. Overall there were 488 comments on the
+   channel. Conclusion: This paper confirms the phenomenon of
+   micro-learning by online learners. It is recommended that educational
+   videos as OER should be confined to 2 min, made compatible for the
+   mobile device, and be optimized for sharing on social media. These can
+   be used as resources for blended learning, allowing better utilization
+   of time for deliberate practice in surgical training.
+RI Rajaratnam, Vaikunthan/AAC-8400-2019
+OI Rajaratnam, Vaikunthan/0000-0001-7498-4995
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+TC 1
+ZA 0
+Z9 1
+EI 2297-4687
+UT WOS:000682673200001
+ER
+
+PT J
+AU Arnaboldi, Michela
+   Robbiani, Andrea
+   Carlucci, Paola
+TI On the relevance of self-service business intelligence to university
+   management
+SO JOURNAL OF ACCOUNTING AND ORGANIZATIONAL CHANGE
+VL 17
+IS 1
+SI SI
+BP 5
+EP 22
+DI 10.1108/JAOC-09-2020-0131
+EA NOV 2020
+DT Article
+PD FEB 26 2021
+PY 2021
+AB Purpose
+   Nearly 40 years since they first appeared, there is renewed interest in
+   dashboards, engendered by the diffusion of business intelligence (BI)
+   desktop software, such as Power BI, QlikView and Tableau, denoted
+   collectively as "self-service" BI. Using these commodity software tools,
+   the work to construct dashboards apparently becomes easier and more
+   manageable and no longer requires the intervention of specialists. This
+   paper aims to analyse the implementation of this kind of commodity
+   dashboard in a university, exploring its role in performance management
+   processes and investigating whether the dashboard affects the
+   organisation (or not).
+   Design/methodology/approach
+   This paper focusses on an action research project developed by the
+   authors, where the objective was to design and implement a dynamic
+   performance measurement tool fitting the needs of department directors.
+   The three authors were all involved in the project, respectively, as
+   project manager, dashboard implementation manager and accounting manager
+   of the studied organisation.
+   Findings
+   The results reveal a specific but complex change to the procedures and
+   outcomes in the organisation studied, where the dashboard becomes a
+   boundary infrastructure, thereby reviving technical and organisational
+   problems that had been latent for years.
+   Originality/value
+   In this paper, the authors contribute to the debate on the digital age
+   and the role of accounting with their exploration into the "revolution"
+   of self-service BI tools. The democratisation and flexibility of these
+   instruments put into discussion two core and somewhat controversial
+   functions of accounting: data integration and personalised reporting.
+Z8 0
+ZA 0
+TC 2
+ZS 0
+ZR 0
+ZB 0
+Z9 2
+SN 1832-5912
+EI 1839-5473
+UT WOS:000595103700001
+ER
+
+PT J
+AU Hu, Shangui
+   Hu, Lingyu
+   Wu, Jinnan
+   Wang, Guoyin
+TI Social media usage and international expatriate's creativity: An
+   empirical research in cross-cultural context
+SO HUMAN SYSTEMS MANAGEMENT
+VL 40
+IS 2
+BP 197
+EP 209
+DI 10.3233/HSM-200965
+DT Article
+PD 2021
+PY 2021
+AB BACKGROUND: Considerable evidence suggests that social media usage has
+   become an indispensible part of international expatriates' daily lives.
+   Studies have identified social media usage serves both as a positive and
+   a negative channel to influence international expatriate's personal
+   development. Nevertheless, there is paucity of literature examining the
+   effects and underlying mechanism through which social media usage
+   impinges on international expatriates' creativity, especially in
+   cross-cultural settings.
+   OBJECTIVE: To address the gaps, the current research is designed to
+   investigate whether and how social media usage accounts for variance
+   phenomena in international expatriates' creativity with intervention
+   role of cultural intelligence.
+   METHODS: A questionnaire survey was conducted at three Chinese public
+   universities with assistance of officials in charge of international
+   education. 248 informative responses were used for testing hypothesis.
+   RESULTS: Research findings suggest that social media usage contributes
+   to international expatriates' creativity partially through the conduit
+   of peer relationship. Additionally cultural intelligence positively
+   moderates the relationship between social media usage and peer
+   relationship.
+   CONCLUSIONS: As the elite group who make quick responses and efficacious
+   solutions to manage the complexities in such an interconnected world,
+   international expatriates deserve more scholarly attention for their
+   creativity development. The current research examines the mediating role
+   of peer relationship and the role of cultural intelligence moderating
+   the relationship between social media usage and peer relationship. And
+   this paper serves to arouse more scholarly attention to apply
+   interdisciplinary analytics approaches to investigate how to develop
+   international expatriate's creativity in complicated cross-cultural
+   settings.
+ZB 0
+TC 3
+ZA 0
+ZR 0
+Z8 0
+ZS 0
+Z9 3
+SN 0167-2533
+EI 1875-8703
+UT WOS:000644439300005
+ER
+
+PT J
+AU Okoye, Kingsley
+   Arrona-Palacios, Arturo
+   Camacho-Zuniga, Claudia
+   Achem, Joaquin Alejandro Guerra
+   Escamilla, Jose
+   Hosseini, Samira
+TI Towards teaching analytics: a contextual model for analysis of students'
+   evaluation of teaching through text mining and machine learning
+   classification
+SO EDUCATION AND INFORMATION TECHNOLOGIES
+VL 27
+IS 3
+BP 3891
+EP 3933
+DI 10.1007/s10639-021-10751-5
+EA OCT 2021
+DT Article
+PD APR 2022
+PY 2022
+AB Recent trends in educational technology have led to emergence of methods
+   such as teaching analytics (TA) in understanding and management of the
+   teaching-learning processes. Didactically, teaching analytics is one of
+   the promising and emerging methods within the Education domain that have
+   proved to be useful, towards scholastic ways to make use of substantial
+   pieces of evidence drawn from educational data to improve the
+   teaching-learning processes and quality of performance. For this
+   purpose, this study proposed an educational process and data mining plus
+   machine learning (EPDM + ML) model applied to contextually analyze the
+   teachers' performances and recommendations based on data derived from
+   students' evaluation of teaching (SET). The EPDM + ML model was designed
+   and implemented based on amalgamation of the Text mining and Machine
+   learning technologies that builds on the descriptive decision theory,
+   which studies the rationality behind decisions the learners are disposed
+   to make based on the textual data quantification and statistical
+   analysis. To this effect, the study determines pedagogical factors that
+   influences the students' recommendations for their teachers, what role
+   the sentiment and emotions expressed by the students in the SET play in
+   the way they evaluate the teachers by taking into account the gender of
+   the teachers. This includes how to automatically predict what a
+   student's recommendation for the teachers may be based on information
+   about the students' gender, average sentiment, and emotional valence
+   they have shown in the SET. Practically, we applied the Text mining
+   technique to extract the different sentiments and emotions (intensities
+   of the comments) expressed by the students in the SET, and then utilized
+   the quantified data (average sentiment and emotional valence) to conduct
+   an analysis of covariance and Kruskal Wallis Test to determine the
+   influential factors, as well as, how the students' recommendation for
+   the teachers differ by considering the gender constructs, respectively.
+   While a large proportion of the comments that we analyzed (n = 85,378)
+   was classified to be neutral and predominantly interpreted to be
+   positive in nature considering the sentiments (76.4%), and emotional
+   valence (88.2%) expressed by the students. The results of our analysis
+   shows that for the students' comments which contain some kind of
+   positive or negative sentiment (23.6%) and emotional valence (11.8%);
+   that females students recommended the teachers taking into account the
+   sentiments (p = .000). While the males appear to be slightly borderline
+   in terms of emotions (p = .056) and sentiment (p = .077). Also, the EPDM
+   + ML model showed to be a good predictor and efficient method in
+   determining what the students' recommendation scores for the teachers
+   would be, going by the high and acceptable values of the precision
+   (1.00), recall (1.00), specificity (1.00), accuracy (1.00), F1-score
+   (1.00) and zero error-rate (0.00) which we validated using the k-fold
+   cross-validation method, with 63.6% of optimal k-values observed. In
+   theory, we note that not only does the proposed method (EPDM + ML)
+   proves to be useful towards effective analysis of SET and its
+   implications within the educational domain.
+   But can be utilized to determine prominent factors that influences the
+   students' evaluation and recommendation of the teachers, as well as
+   helps provide solutions to the ever-increasingly need to advance and
+   support the teaching-learning processes and/or students' learning
+   experiences in a rapidly changing educational environment or ecosystem.
+RI Arrona-Palacios, Arturo/R-1146-2016; Hosseini, Samira/ABG-1807-2021; Okoye, Kingsley/O-9661-2016; Camacho-Zuniga, Claudia/
+OI Arrona-Palacios, Arturo/0000-0003-0828-3327; Okoye,
+   Kingsley/0000-0002-6943-9885; Camacho-Zuniga,
+   Claudia/0000-0002-4701-3381
+TC 7
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+ZA 0
+Z9 7
+SN 1360-2357
+EI 1573-7608
+UT WOS:000706050400004
+PM 34658654
+ER
+
+PT J
+AU Boly, Frances J.
+   Reske, Kimberly A.
+   Kwon, Jennie H.
+TI The Role of Diagnostic Stewardship in Clostridioides difficile Testing:
+   Challenges and Opportunities
+SO CURRENT INFECTIOUS DISEASE REPORTS
+VL 22
+IS 4
+AR 7
+DI 10.1007/s11908-020-0715-4
+DT Hardware Review
+PD FEB 17 2020
+PY 2020
+AB Purpose of Review Accurate and timely diagnosis of Clostridioides
+   difficile infection (CDI) is imperative to prevent C. difficile
+   transmission and reduce morbidity and mortality due to CDI, but CDI
+   laboratory diagnostics are complex. The purpose of this article is to
+   review the role of laboratory tests in the diagnosis of CDI and the role
+   of diagnostic stewardship in optimization of C. difficile testing.
+   Recent Findings Results from C. difficile diagnostic tests should be
+   interpreted with an understanding of the strengths and limitations
+   inherent in each testing approach. Use of highly sensitive molecular
+   diagnostic tests without accounting for clinical signs and symptoms may
+   lead to over-diagnosis of CDI and increased facility CDI rates. Current
+   guidelines recommend a two-step, algorithmic approach for testing.
+   Diagnostic stewardship interventions, such as education, order sets,
+   order search menus, reflex orders, hard and soft stop alerts, electronic
+   references, feedback and benchmarking, decision algorithms, and
+   predictive analytics, may help improve use of C. difficile laboratory
+   tests and CDI diagnosis. The diagnostic stewardship approaches with the
+   highest reported success rates include computerized clinical decision
+   support (CCDS) interventions, face-to-face feedback, and real-time
+   evaluations. CDI is a clinical diagnosis supported by laboratory
+   findings. Together, clinical evaluation combined with diagnostic
+   stewardship can optimize the accurate diagnosis of CDI.
+RI Kwon, Jennie/ABD-1475-2021
+TC 8
+ZA 0
+ZR 0
+ZS 0
+ZB 1
+Z8 0
+Z9 8
+SN 1523-3847
+EI 1534-3146
+UT WOS:000519161000001
+PM 33762897
+ER
+
+PT J
+AU Irmak, Suat
+   Brar, Dilshad
+   Kukal, Meetpal S.
+   Odhiambo, Lameck
+   Djaman, Koffi
+TI Automated real-time irrigation analytics inform diversity in regional
+   irrigator behavior and water withdrawal and use characteristics
+SO AGRICULTURAL WATER MANAGEMENT
+VL 272
+AR 107837
+DI 10.1016/j.agwat.2022.107837
+EA JUL 2022
+DT Article
+PD OCT 1 2022
+PY 2022
+AB Effective agricultural water management requires accurate, continuous,
+   and transparent accounting of water use in irrigated agroecosystems,
+   especially in water-limited regions where moratoriums may be imposed.
+   Advances in sensor technologies, networking, and data analytics can aid
+   in fulfilling this task by automatically collecting, analyzing and
+   reporting real-time data to infer irrigators' practices and behaviors,
+   crop water requirements, water applications and use. In this research,
+   an automated irrigation water withdrawal and water use monitoring and
+   data collection system was deployed to monitor actual irrigation
+   dynamics for 31 commercial and large-scale agricultural production
+   fields for three consecutive years. Production scale fields
+   (representing a total of 1050 ha) included center pivot (P), gravity
+   (surface/furrow) (G) and subsurface drip-irrigated (S) fields. On
+   average, irrigation was initiated 40-70 days after planting (DAP) and
+   terminated by 120-140 DAP. The proportion of irrigation systems
+   operating simultaneously and peak water abstraction were highest (70-90
+   %) during July and August. Mean depth of water applied across all fields
+   was 243, 264 and 284 mm in 2013, 2014 and 2015, respectively.
+   Site-specific monitoring of precipitation, soil moisture, and
+   evaporative demand and a soil-water balance model resulted in mean
+   seasonal irrigation requirement estimates of 394, 242 and 184 mm, in
+   2013, 2014 and 2015, respectively; for maize; and 307, 163 and 219 mm in
+   2013, 2014 and 2015, respectively, for soybean. Despite reduction of
+   calculated mean irrigation requirement in 2014 and 2015 by 40-50 %,
+   actual irrigation applications by producers did not change considerably
+   and irrigation applied exceeded irrigation water requirements in 80 % of
+   the fields, suggesting needs for irrigation water management technology
+   implementation and associated educational programs in the region. Some
+   fields showed irrigation applications exceeding the mean annual
+   allocated (moratorium) irrigation depth (305 mm), implying that
+   irrigation decisions are still largely driven by non-scientific and/or
+   technical methods. While substantial farm-to-farm heterogeneity makes it
+   challenging to robustly benchmarking regional water footprint and
+   irrigator behavior, it also creates an opportunity for developing and
+   implementing methodologies and strategies for real-time monitoring of
+   farm-level irrigation dynamics. New advances in technologies with
+   telemetry capabilities as well as internet of things (IoTs) can be
+   leveraged to effectively create databases, track and compare water usage
+   to better plan, allocate, distribute, monitor and manage limited water
+   resources for enhancing agricultural productivity. These processes can
+   also be used for education and demonstration for irrigation
+   professionals to enhance adoption of such technologies. This research
+   has the potential for technology and strategy transfer for advanced
+   water management to other regions in the United States and globally.
+Z8 0
+ZR 0
+ZA 0
+ZS 0
+ZB 0
+TC 0
+Z9 0
+SN 0378-3774
+EI 1873-2283
+UT WOS:000876569800006
+ER
+
+PT J
+AU Hasan, Raza
+   Palaniappan, Sellappan
+   Mahmood, Salman
+   Shah, Babar
+   Abbas, Ali
+   Sarker, Kamal Uddin
+TI Enhancing the Teaching and Learning Process Using Video Streaming
+   Servers and Forecasting Techniques
+SO SUSTAINABILITY
+VL 11
+IS 7
+AR 2049
+DI 10.3390/su11072049
+DT Article
+PD APR 1 2019
+PY 2019
+AB Higher educational institutes (HEI) are adopting ubiquitous and smart
+   equipment such as mobile devices or digital gadgets to deliver
+   educational content in a more effective manner than the traditional
+   approaches. In present works, a lot of smart classroom approaches have
+   been developed, however, the student learning experience is not yet
+   fully explored. Moreover, module historical data over time is not
+   considered which could provide insight into the possible outcomes in the
+   future, leading new improvements and working as an early detection
+   method for the future results within the module. This paper proposes a
+   framework by taking into account module historical data in order to
+   predict module performance, particularly the module result before the
+   commencement of classes with the goal of improving module pass
+   percentage. Furthermore, a video streaming server along with blended
+   learning are sequentially integrated with the designed framework to
+   ensure correctness of teaching and learning pedagogy. Simulation results
+   demonstrate that by considering module historical data using time series
+   forecasting helps in improving module performance in terms of module
+   delivery and result outcome in terms of pass percentage. Furthermore,
+   the proposed framework provides a mechanism for faculties to adjust
+   their teaching style according to student performance level to minimize
+   the student failure rate.
+RI Mahmood, Salman/AAG-3791-2022; Hasan, Raza/N-5999-2019; Mahmood, Salman/AFK-5214-2022; Sarker, Kamal Uddin/
+OI Mahmood, Salman/0000-0003-2860-4095; Hasan, Raza/0000-0002-8089-837X;
+   Mahmood, Salman/0000-0003-2860-4095; Sarker, Kamal
+   Uddin/0000-0003-0206-1475
+ZB 0
+Z8 0
+ZA 0
+TC 12
+ZR 0
+ZS 0
+Z9 12
+EI 2071-1050
+UT WOS:000466551600226
+ER
+
+PT J
+AU Davis, Anthony E.
+TI The Future of Law Firms (and Lawyers) in the Age of Artificial
+   Intelligence
+SO REVISTA DIREITO GV
+VL 16
+IS 1
+AR e1945
+DI 10.1590/2317-6172201945
+DT Article
+PD 2020
+PY 2020
+AB This article explores the future for lawyers and law firms in the light
+   of the changes that Artificial Intelligence ("AI") is already bringing
+   to the universe of legal services. Part I briefly describes some of the
+   ways AI is already in use in ordinary life - from facial recognition,
+   through medical diagnosis to translation services. Part II describes how
+   AI is transforming what it means to provide legal services in six
+   primary areas: litigation review; expertise automation; legal research;
+   contract analytics; contract and litigation document generation; and
+   predictive analytics. Part III explores who are the providers of these
+   AI driven legal services - often non-lawyer legal service providers -
+   and how these providers are replacing at least some of what clients have
+   traditionally sought from lawyers. Part III also discusses the
+   implications of all these changes both for the future role of lawyers
+   individually, and in particular what services will clients still need
+   lawyers to perform: judgment, empathy, creativity and adaptability. In
+   turn, this Part examines what will these changes mean for the size,
+   shape, composition and economic model of law firms, as well as the
+   implications of these changes for legal education and lawyer training.
+   Part IV identifies the principal legal, ethical, regulatory and risk
+   management issues raised by the use of AI in the provision of legal
+   services. Finally, in Part V the article considers who will be the
+   likely providers of AI based services other than law firms: legal
+   publishers, major accounting firms and venture capital funded
+   businesses.
+Z8 0
+TC 1
+ZB 0
+ZA 0
+ZR 0
+ZS 0
+Z9 1
+SN 1808-2432
+EI 2317-6172
+UT WOS:000527400100007
+ER
+
+PT J
+AU Brenner, Michael J.
+   Pandian, Vinciya
+   Milliren, Carly E.
+   Graham, Dionne A.
+   Zaga, Charissa
+   Morriss, Linda L.
+   Bedwell, Joshua R.
+   Das, Preety
+   Zhu, Hannah
+   Allen, John Lee Y.
+   Peltz, Alon
+   Chin, Kimberly
+   Schiff, Bradley A.
+   Randall, Diane M.
+   Swords, Chloe
+   French, Darrin
+   Ward, Erin
+   Sweeney, Joanne M.
+   Warrillow, Stephen J.
+   Arora, Asit
+   Narula, Anthony
+   McGrath, Brendan A.
+   Cameron, Tanis S.
+   Roberson, David W.
+TI Global Tracheostomy Collaborative: data-driven improvements in patient
+   safety through multidisciplinary teamwork, standardisation, education,
+   and patient partnership
+SO BRITISH JOURNAL OF ANAESTHESIA
+VL 125
+IS 1
+BP E104
+EP E118
+DI 10.1016/j.bja.2020.04.054
+DT Article
+PD JUL 2020
+PY 2020
+AB There is growing recognition of the need for a coordinated, systematic
+   approach to caring for patients with a tracheostomy.
+   Tracheostomy-related adverse events remain a pervasive global problem,
+   accounting for half of all airway-related deaths and hypoxic brain
+   damage in critical care units. The Global Tracheostomy Collaborative
+   (GTC) was formed in 2012 to improve patient safety and quality of care,
+   emphasising knowledge, skills, teamwork, and patient-centred approaches.
+   Inspired by quality improvement leads in Australia, the UK, and the USA,
+   the GTC implements and disseminates best practices across hospitals and
+   healthcare trusts. Its database collects patient-level information on
+   quality, safety, and organisational efficiencies. The GTC provides an
+   organising structure for quality improvement efforts, promoting safety
+   of paediatric and adult patients. Successful implementation requires
+   instituting key drivers for change that include effective training for
+   health professionals; multidisciplinary team collaboration; engagement
+   and involvement of patients, their families, and carers; and data
+   collection that allows tracking of outcomes. We report the history of
+   the collaborative, its database infrastructure and analytics, and
+   patient outcomes from more than 6500 patients globally. We characterise
+   this patient population for the first time at such scale, reporting
+   predictors of adverse events, mortality, and length of stay indexed to
+   patient characteristics, co-morbidities, risk factors, and context. In
+   one example, the database allowed identification of a previously
+   unrecognised association between bleeding and mortality, reflecting
+   ability to uncover latent risks and promote safety. The GTC provides the
+   foundation for future risk-adjusted benchmarking and a learning
+   community that drives ongoing quality improvement efforts worldwide.
+RI mcgrath, brendan a/D-7202-2013; Graham, Dionne/; Swords, Chloe/; Zaga, Charissa/; Pandian, Vinciya/
+OI mcgrath, brendan a/0000-0003-3048-3480; Graham,
+   Dionne/0000-0002-1526-547X; Swords, Chloe/0000-0002-0431-4491; Zaga,
+   Charissa/0000-0002-6717-908X; Pandian, Vinciya/0000-0002-2260-1080
+ZS 1
+ZA 0
+ZB 3
+Z8 0
+TC 52
+ZR 0
+Z9 53
+SN 0007-0912
+EI 1471-6771
+UT WOS:000544318800018
+PM 32456776
+ER
+
+PT J
+AU Farhan, Muhammad
+   Jabbar, Sohail
+   Aslam, Muhammad
+   Hammoudeh, Mohammad
+   Ahmad, Mudassar
+   Khalid, Shehzad
+   Khan, Murad
+   Han, Kijun
+TI IoT-based students interaction framework using attention-scoring
+   assessment in eLearning
+SO FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+VL 79
+BP 909
+EP 919
+DI 10.1016/j.future.2017.09.037
+PN 3
+DT Article
+PD FEB 2018
+PY 2018
+AB Students' interaction and collaboration using Internet of Things (loT)
+   based interoperable infrastructure is a convenient way. Measuring
+   student attention is an essential part of educational assessment. As new
+   learning styles develop, new tools and assessment methods are also
+   needed. The focus of this paper is to develop loT-based interaction
+   framework and analysis of the student experience of electronic learning
+   (eLearning). The learning behaviors of students attending remote video
+   lectures are assessed by logging their behavior and analyzing the
+   resulting multimedia data using machine learning algorithms. An
+   attention-scoring algorithm, its workflow, and the mathematical
+   formulation for the smart assessment of the student learning experience
+   are established. This setup has a data collection module, which can be
+   reproduced by implementing the algorithm in any modern programming
+   language. Some faces, eyes, and status of eyes are extracted from video
+   stream taken from a webcam using this module. The extracted information
+   is saved in a dataset for further analysis. The analysis of the dataset
+   produces interesting results for student learning assessments. Modern
+   learning management systems can integrate the developed tool to take
+   student learning behaviors into account when assessing electronic
+   learning strategies. (C) 2017 Elsevier B.V. All rights reserved.
+RI Hammoudeh, Mohammad/A-5797-2012; Jabbar, Sohail/E-3052-2012; Khan, Murad/AAB-6060-2019; Farhan, Muhammad/F-8071-2011; ASLAM, MUHAMMAD/AAB-9831-2020; Hammoudeh, Mohammad Ali A./
+OI Hammoudeh, Mohammad/0000-0003-1058-0996; Jabbar,
+   Sohail/0000-0002-2127-1235; Khan, Murad/0000-0001-9905-8904; Farhan,
+   Muhammad/0000-0002-3649-5717; Hammoudeh, Mohammad Ali
+   A./0000-0002-9735-2365
+ZR 0
+ZB 0
+ZA 0
+ZS 0
+TC 40
+Z8 0
+Z9 40
+SN 0167-739X
+EI 1872-7115
+UT WOS:000418973500010
+ER
+
+PT J
+AU Vatsalan, Dinusha
+   Rakotoarivelo, Thierry
+   Bhaskar, Raghav
+   Tyler, Paul
+   Ladjal, Djazia
+TI Privacy risk quantification in education data using Markov model
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+VL 53
+IS 4
+BP 804
+EP 821
+DI 10.1111/bjet.13223
+EA APR 2022
+DT Article
+PD JUL 2022
+PY 2022
+AB With Big Data revolution, the education sector is being reshaped. The
+   current data-driven education system provides many opportunities to
+   utilize the enormous amount of collected data about students' activities
+   and performance for personalized education, adapting teaching methods,
+   and decision making. On the other hand, such benefits come at a cost to
+   privacy. For example, the identification of a student's poor performance
+   across multiple courses. While several works have been conducted on
+   quantifying the re-identification risks of individuals in released
+   datasets, they assume an adversary's prior knowledge about target
+   individuals. Most of them do not utilize all the available information
+   in the datasets. For example, event-level information that associates
+   multiple records to the same individual and correlation between
+   attributes. In this work, we propose a method using a Markov Model (MM)
+   to quantify re-identification risks using all available information in
+   the data under a more realistic threat model that assumes different
+   levels of an adversary's knowledge about the target individual, ranging
+   from any one of the attributes to all given attributes. Moreover, we
+   propose a workflow for efficiently calculating MM risk which is highly
+   scalable to large number of attributes. Experimental results from real
+   education datasets show the efficacy of our model for re-identification
+   risk.
+OI Vatsalan, Dinusha/0000-0001-6713-7667; Ladjal,
+   Djazia/0000-0003-4906-231X
+ZB 0
+TC 2
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+Z9 2
+SN 0007-1013
+EI 1467-8535
+UT WOS:000790569800001
+ER
+
+PT J
+AU Mustafee, Navonil
+   Katsaliaki, Korina
+TI Classification of the existing knowledge base of OR/MS research and
+   practice (1990-2019) using a proposed classification scheme
+SO COMPUTERS & OPERATIONS RESEARCH
+VL 118
+AR 104920
+DI 10.1016/j.cor.2020.104920
+DT Review
+PD JUN 2020
+PY 2020
+AB Operations Research/Management Science (OR/MS) has traditionally been
+   defined as the discipline that applies advanced analytical methods to
+   help make better and more informed decisions. The purpose of this paper
+   is to present an analysis of the existing knowledge base of OR/MS
+   research and practice using a proposed keywords-based approach. A
+   conceptual structure is necessary in order to place in context the
+   findings of our keyword analysis. Towards this we first present a
+   classification scheme that relies on keywords that appeared in articles
+   published in important OR/MS journals from 1990-2019 (over 82,000
+   articles). Our classification scheme applies a methodological approach
+   towards keyword selection and its systematic classification, wherein
+   approximately 1300 most frequently used keywords (in terms of cumulative
+   percentage, these keywords and their derivations account for more than
+   45% of the approx. 290,000 keyword occurrences used by the authors to
+   represent the content of their articles) were selected and organised in
+   a classification scheme with seven top-level categories and multiple
+   levels of sub-categories. The scheme identified the most commonly used
+   keywords relating to OR/MS problems, modeling techniques and
+   applications. Next, we use this proposed scheme to present an analysis
+   of the last 30 years, in three distinct time periods, to show the
+   changes in OR/MS literature. The contribution of the paper is thus
+   twofold, (a) the development of a proposed discipline-based
+   classification of keywords (like the ACM Computer Classification System
+   and the AMS Mathematics Subject Classification), and (b) an analysis of
+   OR/MS research and practice using the proposed classification. (C) 2020
+   Elsevier Ltd. All rights reserved.
+RI Mustafee, Navonil/B-8313-2008
+OI Mustafee, Navonil/0000-0002-2204-8924
+TC 4
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+Z9 4
+SN 0305-0548
+EI 1873-765X
+UT WOS:000530709600010
+ER
+
+EF
