@@ -1,5 +1,5 @@
 ---
-title: "Blockchain and sustainability reporting"
+title: "Blockchain and textile"
 format: html
 toc: true
 toc-depth: 3
